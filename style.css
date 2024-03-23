@@ -1,0 +1,38 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+    font-weight: 100;
+}
+h2:hover{
+    color: chartreuse;
+
+}
+label:hover{
+    color: coral;
+}
+main{
+    background-color: rgb(170, 103, 233);
+    margin: 25px;
+    padding-left: 30px;
+}
+header{
+    background-color: blueviolet;
+    margin: 15px;
+}
+.blue-text{
+    background-color: darkblue; 
+    color: rgb(231, 255, 11);
+}
+.rosa-pasion{
+    background-color:red;
+    color: coral;
+}
+.text-center{
+    text-align: center;
+}
+#email{
+    font-size: 20px;
+}

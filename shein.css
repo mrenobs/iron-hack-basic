@@ -1,0 +1,15 @@
+*{
+    background-color: navajowhite;
+}
+P{
+    color:rgb(247, 2, 2);
+}
+h1{
+    text-align: center;
+}
+a{
+    display: inline-block;
+}
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
